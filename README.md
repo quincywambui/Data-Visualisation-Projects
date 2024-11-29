@@ -40,7 +40,6 @@ This repository highlights various data visualization projects I've worked on, f
 
 You can find the Power BI dashboards and other visualizations in the `/dashboards` folder. For interactive dashboards, links are provided in each project description.
 
-(*If hosted online, provide links.*)
 
 ---
 
