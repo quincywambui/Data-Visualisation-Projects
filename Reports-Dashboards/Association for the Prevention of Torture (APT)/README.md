@@ -1,14 +1,12 @@
-<div style="display: inline-block; margin-right: 20px;">
-  <a href="https://www.apt.ch/">
-    <img src="https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/apt_logo_en_pos_pantone.jpg" alt="APT logo" width="150"/>
-  </a>
-</div>
-<div style="display: inline-block; border-left: 2px solid black; height: 100px; margin-right: 20px;"></div>
-<div style="display: inline-block;">
-  <a href="https://www.vizforsocialgood.com/">
-    <img src="https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/VFSG%20logo%20square%20for%20light%20background.png" alt="VFSG logo" width="150"/>
-  </a>
-</div>
+<a href="https://www.apt.ch/">
+  <img src="https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/apt_logo_en_pos_pantone.jpg" alt="APT logo" width="150"/>
+</a>
+
+
+<a href="https://www.vizforsocialgood.com/">
+  <img src="https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/VFSG%20logo%20square%20for%20light%20background.png" alt="VFSG logo" width="150"/>
+</a>
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
