@@ -1,4 +1,6 @@
-[![Alt text for image](Image URL)](Link URL)  |  [![Alt text for image](Image URL)](Link URL)
+[![APT logo]([Image URL](https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/apt_logo_en_pos_pantone.jpg))](https://www.apt.ch/)  |  [![VFSG logo](https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/VFSG%20logo%20square%20for%20light%20background.png)](https://www.vizforsocialgood.com/)
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # Torture Prevention: A 40-Year Progress Report
 
