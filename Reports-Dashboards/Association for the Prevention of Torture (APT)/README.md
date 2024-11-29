@@ -1,4 +1,10 @@
-[![APT logo]([Image URL](https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/apt_logo_en_pos_pantone.jpg))](https://www.apt.ch/)  |  [![VFSG logo](https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/VFSG%20logo%20square%20for%20light%20background.png)](https://www.vizforsocialgood.com/)
+<a href="https://www.apt.ch/">
+  <img src="https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/apt_logo_en_pos_pantone.jpg" alt="APT logo" width="150"/>
+</a>
+|
+<a href="https://www.vizforsocialgood.com/">
+  <img src="https://github.com/quincywambui/Data-Visualisation-Projects/blob/main/Reports-Dashboards/Images/VFSG%20logo%20square%20for%20light%20background.png" alt="VFSG logo" width="150"/>
+</a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
